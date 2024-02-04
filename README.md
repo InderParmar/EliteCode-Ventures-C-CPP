@@ -17,16 +17,13 @@ The Real Estate Performance Analyzer is a comprehensive C++ project developed as
 
 ## Getting Started
 To compile and run the Real Estate Performance Analyzer, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/RealEstatePerformanceAnalyzer-SEP101.git`
+1. Clone the repository: `git clone https://github.com/InderParmar/RealEstatePerformanceAnalyzer-CPP.git`
 2. Navigate to the project directory: `cd RealEstatePerformanceAnalyzer-SEP101`
 3. Compile the project: `g++ -o RealEstateAnalyzer Main.cpp Apartment.cpp Townhouse.cpp SemiDetachedHouse.cpp Company.cpp`
 4. Run the executable: `./RealEstateAnalyzer`
 
 ## Contributing
 This project welcomes contributions and suggestions. Please fork the repository and submit pull requests for review.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## About the Developers
 This project was developed by a team of dedicated software engineering students as part of the SEP101 assignment. Our goal was to create a real-world application that demonstrates our proficiency in C++ and our understanding of software engineering principles.
